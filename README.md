@@ -39,7 +39,7 @@ plt.show()
 
 ```
 ## Output
-[univarient.pdf](https://github.com/swetha1510/Univariate-Linear-Regression/files/10529103/univarient.pdf)
+![Uploading univarient_page-0001.jpg…]()
 
 
 ## Result
